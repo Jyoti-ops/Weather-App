@@ -1,3 +1,3 @@
 # Weather-App 
-Using Weather API
-Here we are using weather API to see weather of city,state directly.
+
+Here we are using Weather API to see weather of city,state directly.
